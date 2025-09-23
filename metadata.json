@@ -1,0 +1,7 @@
+{
+  "name": "Verdicto: Legal Document Summarizer & AI Assistant",
+  "description": "Verdicto is an AI-powered tool to scan, upload, and summarize complex legal documents. Understand benefits, risks, and granted authorities at a glance, and ask specific questions with an integrated AI chatbot.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
